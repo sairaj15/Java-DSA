@@ -1,2 +1,4 @@
 **A Java DSA practice repository**
---Arrays
+- Functions
+- Number System
+- Arrays
